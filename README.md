@@ -1,72 +1,77 @@
+<!-- Banner principal com seu nome -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Henrique+Delgado;Desenvolvedor+em+formação;Apaixonado+por+tecnologia+e+inovação;Estudante+de+Qualidade+no+COTIL-UNICAMP" alt="Typing SVG" />
+</p>
 
-  
-  <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=38F77CFF&center=true&vCenter=true&repeat=false&width=435&lines=Furtunato" alt="Typing SVG" /></a>
-</p> <br>
-  
-  <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4CCA00&center=true&vCenter=true&width=435&lines=Cursando+Desenvolvimento de sistemas+no+SENAI;Localizado+em+Limeira%2C+SP;Construindo+conhecimentos%2C+linha+por+linha" alt="Typing SVG" /></a>
-  </p> <br>
+<!-- Linha divisória animada -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 
+## 🌟 Sobre mim
+💡 Curioso nato e apaixonado por aprender, estou sempre explorando novas áreas da tecnologia.  
+📚 Atualmente estudando **Qualidade** no **COTIL-UNICAMP**, com foco em **matemática, física e desenvolvimento de software**.  
+🚀 Trabalhando em projetos acadêmicos e pessoais que envolvem **transformação digital, design no Figma e automação**.  
+🎯 Objetivo: contribuir para um **Brasil mais digital e inovador**, com impacto positivo na economia e sociedade.
+
+---
+
+## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Furtunato&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Delgado github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furtunato&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div> <br> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueDelgadoo&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDelgadoo&layout=compact&theme=radical&hide_border=true" />
+</div>
 
+---
 
+## 💻 Tecnologias & Ferramentas
 <details open>
-   <summary><h2>💻 Aprendendo e Codando:</h2></summary>
-    <h3>👨‍💻 Linguagens de Programação</h3>
-    <p>
-      <a href="https://github.com/HenriqueDelgadoo"><img width="60px" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-      <a href="https://github.com/HenriqueDelgadoo"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/HenriqueDelgadoo"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/HenriqueDelgadoo"><img width="95px" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  </p>
-
-  <h3>👨‍💻 Linguagens de Marcação</h3>
+  <summary><b>👨‍💻 Linguagens de Programação</b></summary>
   <p>
-     <a href="https://github.com/HenriqueDelgadoo"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-     <a href="https://github.com/HenriqueDelgadoo"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,dart" />
   </p>
+</details>
 
-   <h3>🗄️ Banco de Dados e Armazenamento em Nuvem</h3>
-
+<details>
+  <summary><b>🌐 Front-end</b></summary>
   <p>
-      <a href="https://github.com/HenriqueDelgadoo"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </p>
+</details>
 
-  <h3>🛠️ Ferramentas de Trabalho</h3>
+<details>
+  <summary><b>🛠 Ferramentas de Trabalho</b></summary>
   <p>
-      <a href="https://github.com/HenriqueDelgadoo"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="https://github.com/HenriqueDelgadoo"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="https://github.com/HenriqueDelgadoo"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p> <br><br>
-   </details>
-     <summary><h2>📋Projetos</h2></summary> 
-     <details open> 
-   
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  </p>
+</details>
 
+---
+
+## 🚀 Projetos em Destaque
+- 📌 **Impacto das Transformações Digitais na Economia Brasileira** *(TCC - Estudo de caso Magazine Luiza)*
+- 🛡 **Sistema de Alerta para Rompimento de Barragens** *(Tecnologias emergentes para prevenção de desastres)*
+- 📚 **Design no Figma** para uma **Biblioteca Online**
+
+---
+
+## 📈 Atividade
 <div align="center">
-    <br><br><br><br><br><br><p align="centre"><b>count++ </b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Furtunato}/count.svg" /></p> 
-    <br>
-  </div>
+  <img src="https://streak-stats.demolab.com?user=HenriqueDelgadoo&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueDelgadoo/HenriqueDelgadoo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueDelgadoo/HenriqueDelgadoo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Furtunato/HenriqueDelgadoo/output/pacman-contribution-graph.svg">
-</picture>
-
-### 📫 Contato
-
-- ✉️ Email:henriquedelgado055@gmail.com 
-- 💼 LinkedIn https://www.linkedin.com/in/henrique-delgado
+## 📫 Contato
+<p align="center">
+  <a href="mailto:henriquedelgado055@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/henrique-delgado"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
 <p align="center">
-  <em>“A transformação que você deseja no mundo começa em você mesmo.”</em>
+  <img src="https://profile-counter.glitch.me/{HenriqueDelgadoo}/count.svg" />
+</p>
+
+<p align="center">
+  <em>"A transformação que você deseja no mundo começa em você mesmo."</em>
 </p>
