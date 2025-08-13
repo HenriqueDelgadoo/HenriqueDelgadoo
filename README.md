@@ -90,10 +90,7 @@
 
 ---
 
-## ⚙️ Setup do Breakout (GitHub Action)
-Crie o arquivo **`.github/workflows/generate-breakout.yml`** com:
 
-```yaml
 name: generate breakout svg
 
 on:
