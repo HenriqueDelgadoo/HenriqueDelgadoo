@@ -1,0 +1,29 @@
+name: Generate Breakout SVG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *" # Atualiza a cada 12 horas
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Breakout SVGs
+        uses: cyprieng/github-breakout@v1.0.0
+        with:
+          user: HenriqueDelgadoo
+          output: images
+          light_file: breakout-light.svg
+          dark_file: breakout-dark.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/
+          git commit -m "Atualiza Breakout SVG"
+          git push
