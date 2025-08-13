@@ -1,7 +1,7 @@
 <!-- Banner principal com seu nome -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Henrique+Delgado;Desenvolvedor+em+formação;Apaixonado+por+tecnologia+e+inovação;Estudante+de+Qualidade+no+COTIL-UNICAMP" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=38F77CFF&center=true&vCenter=true&repeat=false&width=435&lines=Delgado]https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Henrique+Delgado;Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o;Desenvolvimento+de+Sistemas+no+SENAI" alt="Typing SVG" /></a>
+</p> <br>
 
 <!-- Linha divisória animada -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
