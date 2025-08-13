@@ -90,7 +90,10 @@
 
 ---
 
+## ⚙️ Setup do Breakout (GitHub Action)
+Crie o arquivo **`.github/workflows/generate-breakout.yml`** com:
 
+```yaml
 name: generate breakout svg
 
 on:
@@ -130,4 +133,3 @@ jobs:
           git add images/breakout-light.svg images/breakout-dark.svg
           git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
           git push
-
