@@ -8,6 +8,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Permissão para fazer push das alterações
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -15,13 +18,16 @@ jobs:
       - name: Generate Breakout SVGs
         uses: cyprieng/github-breakout@v1.0.0
         with:
-          user: HenriqueDelgadoo
-          output: images
-          light_file: breakout-light.svg
-          dark_file: breakout-dark.svg
+          github_username: HenriqueDelgadoo
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Token automático do GitHub
 
       - name: Commit and push changes
         run: |
+          git config --local user.name "Henriquedelgadoo"
+          git config --local user.email "henriquedelgado055@gmail.com"
+          git add images/
+          git commit -m "Atualiza Breakout SVG"
+          git push
           git config --local user.name "Henriquedelgadoo"
           git config --local user.email "henriquedelgado055@gmail.com"
           git add images/
