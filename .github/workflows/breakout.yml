@@ -15,18 +15,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create images folder
+        run: mkdir -p images
+
       - name: Generate Breakout SVGs
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: HenriqueDelgadoo
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Token automático do GitHub
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Pode trocar por PAT se precisar
+          output: images
 
       - name: Commit and push changes
         run: |
           git config --local user.name "Henriquedelgadoo"
           git config --local user.email "henriquedelgado055@gmail.com"
           
-          mkdir -p images  # Garante que a pasta existe
           git add images/ || true
           
           if git diff --cached --quiet; then
@@ -35,3 +38,4 @@ jobs:
             git commit -m "Atualiza Breakout SVG"
             git push
           fi
+
