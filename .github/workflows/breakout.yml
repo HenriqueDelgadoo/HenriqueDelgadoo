@@ -22,7 +22,7 @@ jobs:
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: HenriqueDelgadoo
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Pode trocar por PAT se precisar
+          github_token: ${{ secrets.PERSONAL_TOKEN }} # Token criado por você
           output: images
 
       - name: Commit and push changes
@@ -38,4 +38,3 @@ jobs:
             git commit -m "Atualiza Breakout SVG"
             git push
           fi
-
