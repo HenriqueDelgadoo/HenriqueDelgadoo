@@ -1,16 +1,16 @@
-<!-- Banner principal com seu nome (corrigido) -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Henrique+Delgado;Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o;Desenvolvimento+de+Sistemas+no+SENAI" alt="Typing SVG" />
 </p>
 <br>
 
-<!-- Linha divisória animada -->
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 
 ## 🌟 Sobre mim
 💡 Curioso nato e apaixonado por aprender, estou sempre explorando novas áreas da tecnologia.  
-📚 Atualmente estudando **Qualidade** no **COTIL-UNICAMP**, com foco em **matemática, física e desenvolvimento de software**.  
-🚀 Trabalhando em projetos acadêmicos e pessoais que envolvem **transformação digital, design no Figma e automação**.  
+📚 Atualmente estudando **Qualidade** no **COTIL-UNICAMP**, com foco em **Gestão, Análise e desenvolvimento de software**.  
+🚀 Trabalhando em projetos acadêmicos e pessoais que envolvem **transformação digital, e automação**.  
 🎯 Objetivo: contribuir para um **Brasil mais digital e inovador**, com impacto positivo na economia e sociedade.
 
 ---
@@ -50,7 +50,6 @@
 ## 🚀 Projetos em Destaque
 - 📌 **Impacto das Transformações Digitais na Economia Brasileira** *(TCC - Estudo de caso Magazine Luiza)*
 - 🛡 **Sistema de Alerta para Rompimento de Barragens** *(Tecnologias emergentes para prevenção de desastres)*
-- 📚 **Design no Figma** para uma **Biblioteca Online**
 
 ---
 
@@ -73,12 +72,3 @@
 <p align="center">
   <em>"A transformação que você deseja no mundo começa em você mesmo."</em>
 </p>
-
----
-
-## 🎮 Github Breakout (Contributions Game)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
