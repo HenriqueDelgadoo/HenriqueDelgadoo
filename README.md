@@ -27,7 +27,7 @@
 <details open>
   <summary><b>👨‍💻 Linguagens de Programação</b></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,dart" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python" />
   </p>
 </details>
 
@@ -41,17 +41,10 @@
 <details>
   <summary><b>🛠 Ferramentas de Trabalho</b></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </p>
 </details>
 
----
-
-## 🚀 Projetos em Destaque
-- 📌 **Impacto das Transformações Digitais na Economia Brasileira** *(TCC - Estudo de caso Magazine Luiza)*
-- 🛡 **Sistema de Alerta para Rompimento de Barragens** *(Tecnologias emergentes para prevenção de desastres)*
-
----
 
 ## 📈 Atividade
 <div align="center">
