@@ -1,17 +1,15 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Henrique+Delgado;Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o;Desenvolvimento+de+Sistemas+no+SENAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Henrique+Delgado;Estudante+de+Engenharia+da+Computação;Apaixonado+por+tecnologia+e+inovação;Desenvolvedor+em+formação" alt="Typing SVG" />
 </p>
 <br>
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 
 ## 🌟 Sobre mim
 💡 Curioso nato e apaixonado por aprender, estou sempre explorando novas áreas da tecnologia.  
-📚 Atualmente estudando **Qualidade** no **COTIL-UNICAMP**, com foco em **Gestão, Análise e desenvolvimento de software**.  
-🚀 Trabalhando em projetos acadêmicos e pessoais que envolvem **transformação digital, e automação**.  
-🎯 Objetivo: contribuir para um **Brasil mais digital e inovador**, com impacto positivo na economia e sociedade.
+🎓 Atualmente cursando **Engenharia da Computação** no **IFSP (Instituto Federal de São Paulo)**.  
+🚀 Desenvolvendo projetos acadêmicos e pessoais focados em **desenvolvimento de software, automação e tecnologia**.  
+🎯 Objetivo: contribuir para um **Brasil mais digital e inovador**, criando soluções tecnológicas com impacto positivo na sociedade.
 
 ---
 
@@ -34,7 +32,7 @@
 <details>
   <summary><b>🌐 Front-end</b></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
   </p>
 </details>
 
@@ -45,6 +43,7 @@
   </p>
 </details>
 
+---
 
 ## 📈 Atividade
 <div align="center">
@@ -60,7 +59,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <em>"A transformação que você deseja no mundo começa em você mesmo."</em>
