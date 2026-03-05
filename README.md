@@ -1,4 +1,10 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Henrique+Delgado;Desenvolvedor+em+formação%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o;Engenharia+de+Computação"; alt="Typing SVG" /> </p> <br> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Henrique+Delgado;Desenvolvedor+em+formação;Apaixonado+por+tecnologia+e+inovação;Engenharia+de+Computação" alt="Typing SVG" />
+</p>
+
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 
 ## 🌟 Sobre mim
 💡 Curioso nato e apaixonado por aprender, estou sempre explorando novas áreas da tecnologia.  
